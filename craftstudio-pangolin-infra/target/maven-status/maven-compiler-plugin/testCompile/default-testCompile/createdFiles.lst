@@ -1,0 +1,17 @@
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\GatherOrderTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\GatherOrderTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\GatherPlatformTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\RegionCodeMapperTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\ShopTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\LogisticsTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\ProductSpecTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\ProductSpecTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\AspDataPackageParserTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\SupplierTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\OrderTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\wdt\ShopTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\AuthTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\AccessTokenTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\LogisticsTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\OrderTest.class
+com\piliofpala\craftstudio\pangolin\infra\gatherplatform\jst\WebSimulatorTest.class
